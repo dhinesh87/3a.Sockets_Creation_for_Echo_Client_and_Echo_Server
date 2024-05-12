@@ -35,9 +35,11 @@ while True:
 ```
 ## OUTPUT
 ### CLIENT OUTPUT
-![](./CLIENT.png)
+![CLIENT (1)](https://github.com/dhinesh87/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/146917182/d841d374-e766-4f59-a578-0e31292f4c99)
+
 ### SERVER OUTPUT
-![](./SERVER.png)
+![SERVER (1)](https://github.com/dhinesh87/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/146917182/a05d5a85-6e95-4c0a-b348-b1e16f83aa84)
+
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
